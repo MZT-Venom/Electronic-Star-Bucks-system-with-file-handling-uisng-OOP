@@ -1,0 +1,4 @@
+shaikha shama,Dubai,12345678,lk@gmail.com,0,9YpdS,0,None,Staff,Employee
+shaikha Huda,Dubai,234254657,huda@gmail.com,0,YEoQd,0,None,Manager,Employee
+shaikha malaika,Dubai,145657342,z@gmail.com,6544,niTsT,0,None,None,Customer
+Ms ayesha,Abu Dhabi,123456789,aysh@gmail.com,146,bDRNS,0,None,None,Customer
